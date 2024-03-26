@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Soyoung Ahn.
+<P>I graduated NCI in Science in Computing in 2024.</P>
 
 <h2> Technologies 📋 </h2>
 
